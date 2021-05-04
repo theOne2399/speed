@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>007.jpg</filename>
+	<path>C:\Users\lenovo\Videos\Captures\40 Km\images\007.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>678</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>40 Km/hr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>131</ymin>
+			<xmax>550</xmax>
+			<ymax>522</ymax>
+		</bndbox>
+	</object>
+</annotation>
